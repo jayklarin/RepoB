@@ -1,0 +1,10 @@
+You correctly checked the rows for missing data and removed all duplicates. Unfortunately you didn’t examine the dataset for outliers which could have improved the analysis even further. The visualizations were extensive, showing the distribution of each feature in the dataset. The presentation was a bit repetitive, showing the same graphs multiple times (before and after normalization) without any reason or insight gained. It was unclear what purpose the hypothesis testing played in the analysis.(based on the presentation, reading through the notebook made that clear). The analysis focused mainly on visualization with little effort spent on explanation or conclusions, though the conclusion section had valuable insights. The conclusion section would also gain value from its insights being tied to specific graphs from the visualizations. In closing, it’s important to focus more on quality than quantity, and clear insights with graphs showing interesting features of the dataset are more valuable than 20-30 graphs of the distribution of every feature. 
+
+Note: The github commit messages could use a little improvement. It’s important to have clear messages that detail what was changed in each commit.
+
+Cleaning: 9/10
+Exploratory Data Analysis: 8/10
+Data Analysis and Visualizations: 17/20
+Conclusions: 8/10
+
+Final Grade: 84
